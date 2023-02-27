@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente estoy estudiando de manera autodidacta Desarrollo Web Front End<br>Skills:<br>         - HTML<br>         - SASS<br>         - CSS<br>         - JavaScript<br>         - Scrum<br>         - GIt<br>         - GitHub
+Actualmente estoy estudiando de manera autodidacta Desarrollo Web Front End<br>Skills:<br>         - HTML<br>         - SASS<br>         - CSS<br>         - JavaScript<br>         - Scrum<br>         - GIt<br>         - GitHub<br>         - TailwindCSS<br>         - Bootstrap
 
 
 ## 🌐 Socials:
