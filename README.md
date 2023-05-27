@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 Mis proyectos puedes encontrarlos en [https://portafolio-mf.netlify.app/](https://portafolio-mf.netlify.app/)
+- 👨‍💻 Mis proyectos puedes encontrarlos en [https://federico-minatta.netlify.app/](https://federico-minatta.netlify.app/)
 
 - 📫 Puedes contactarme en **minattafederico@gmail.com**
 
