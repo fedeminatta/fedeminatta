@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Federico Minatta</h1>
-<h3 align="center">Actualmente estoy estudiando de manera autodidacta Programación Web Front End 🚀</h3>
+<h3 align="center">Actualmente estoy estudiando de manera autodidacta Programación Web Front End y Cursando la carrera 'Tecnicatura Universitaria en Desarrollo Web' en la UNER 🚀</h3>
 
 
 
