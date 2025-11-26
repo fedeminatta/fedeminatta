@@ -44,4 +44,4 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedeminatta&theme=dracula" alt="fedeminatta" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedeminatta&theme=dracula&rank=S,AAA,AA,A" alt="fedeminatta" /></a> </p>
