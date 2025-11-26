@@ -14,11 +14,24 @@
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nextjs-icon.svg" alt="next js" width="40" height="40"/> </a>&nbsp; 
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/id2alue-rx/w/394/h/80/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="next js" width="auto" height="25"/> </a>&nbsp; 
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs.svg" alt="nodejs" width="auto" height="35"/> </a> &nbsp;
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/postgresql.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/typescript.svg" alt="typescript" width="40" height="40"/> </a>&nbsp;
+  <!-- Typescript -->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idKX_Hb7va/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="typescript" width="auto" height="35"/> </a>&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;
+ <!-- Astro -->
+  <a href="https://astro.build/" target="_blank" rel="noreferrer">
+    <img src="https://astro.build/assets/press/astro-logo-light-gradient.svg" alt="Astro" width="auto" height="35"/>
+  </a>&nbsp;
+  <!-- Supabase -->
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.brandfetch.io/idsSceG8fK/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Supabase" width="auto" height="35"/>
+  </a>&nbsp; 
+  <!-- Framer Motion -->
+  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/framer-motion/framer-motion.png" alt="Framer Motion" width="40" height="40"/>
+  </a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
