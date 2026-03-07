@@ -102,4 +102,4 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedeminatta&theme=dracula&rank=S,AAA,AA,A" alt="fedeminatta" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=fedeminatta&theme=dracula&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy) 
