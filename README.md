@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 Mis proyectos puedes encontrarlos en [https://federico-minatta.netlify.app/](https://federico-minatta.vercel.app/)
+- 👨‍💻 Mis proyectos puedes encontrarlos en [https://federico-minatta.vercel.app/](https://federico-minatta.vercel.app/)
 
 - 📫 Puedes contactarme en **minattafederico@gmail.com**
 
