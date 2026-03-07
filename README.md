@@ -102,4 +102,4 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fedeminatta&theme=dracula&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://gh-trophy.cdnsoft.net/?username=fedeminatta&theme=dracula&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy) 
